@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-philosophical-dialogue-freedom-constraint",
+  "title": "The Cage That Glowed",
+  "tagline": "In a city of whispers and logic, a philosopher must copy the arguments for freedom while living within the constraints of ink, power, and a dangerous past.",
+  "target_words": 69834,
+  "actual_words": 69834,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tyranny of Logic and the Logic of Tyranny",
+    "The Archive as a Site of Constraint and Liberation",
+    "The Silence Between Thought and Action",
+    "The Material Burden of Intellectual Freedom"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Of Viscous Ink and Reluctant Vellum",
+      "words": 6348
+    },
+    {
+      "ch": 2,
+      "title": "The Vizier's Coiled Serpent",
+      "words": 6348
+    },
+    {
+      "ch": 3,
+      "title": "A Princely Monk's Silence",
+      "words": 6348
+    },
+    {
+      "ch": 4,
+      "title": "The Dropped Blade of an Accusation",
+      "words": 6348
+    },
+    {
+      "ch": 5,
+      "title": "The Hesitation in the Gravel",
+      "words": 6348
+    },
+    {
+      "ch": 6,
+      "title": "A Text Without Margins",
+      "words": 6348
+    },
+    {
+      "ch": 7,
+      "title": "The Cage That Glowed",
+      "words": 6348
+    },
+    {
+      "ch": 8,
+      "title": "The Cliff of Grudging Concession",
+      "words": 6348
+    },
+    {
+      "ch": 9,
+      "title": "If a Thought Could Be Fatal",
+      "words": 6348
+    },
+    {
+      "ch": 10,
+      "title": "The Listening Skin of the Archive",
+      "words": 6348
+    },
+    {
+      "ch": 11,
+      "title": "The Cold Mercury of Silence",
+      "words": 6348
+    }
+  ]
+}
